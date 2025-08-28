@@ -1,0 +1,14 @@
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: rgb(36, 1, 68);
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
